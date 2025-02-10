@@ -10,7 +10,7 @@
 
 Fill a brief description of this experiment here
 
-<b> Akash Latya | <b> partition cofficient of acetic acid in Water and Butanol 
+<b> Akash Latya | <b> Partition coefficient of acetic acid in Water and Butanol 
 :--|:--|
 <b> Bundelkhand University, Jhansi | <b>  
 <b>  akashlatya000@gmail.com |     <b>  
